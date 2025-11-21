@@ -90,3 +90,5 @@ color:#000000;                                                     ! Festlegung 
 font-size:12pt;                                                    ! Festlegung des Schriftgröße;
 font-weight:bold;                                                  ! Festlegung der Fettschrift;
 }
+.header-image {
+  content: url(passbild.jpg); // 
