@@ -9,7 +9,6 @@ html, body {
 }
 
 #kopfbereich {
-
   position:fixed;            ! Position des Kopfbereichs ist immer oben - FIX!;
   top:0;                     ! Position oben;
   left:0;                    ! Position ganz links;
@@ -91,4 +90,5 @@ font-size:12pt;                                                    ! Festlegung 
 font-weight:bold;                                                  ! Festlegung der Fettschrift;
 }
 .header-image {
-  content: url(passbild.jpg); // 
+  content: url(passbild.jpg); // corno 
+  border-inline-color: boruuuuu ;
